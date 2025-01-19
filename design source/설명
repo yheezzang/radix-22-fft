@@ -5,6 +5,6 @@ fft_16: sdf1과 sdf2로 구성 --> 추후 더 큰 point의 fft로 확장할때 �
     delay: input delay해서 butterfly에 전달
     butterfly_1: 덧셈, 뺄셈 수행
     butterfly_2: conjugate후 덧셈, 뺄셈 수행
-    twiddle ROM: blk mem generator로 생성, 2^14을 곱한 twiddle factor값을 저장
+    twiddle ROM: blk mem generator로 생성, 2^14을 곱한 twiddle factor값을 저장, twiddle_factor.cod 파일 사용
     round: twiddel factor와 곱셈 후 반올림
     saturation: 곱셈 결과를 지정한 bitwidth에 맞게 값 수정
