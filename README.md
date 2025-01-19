@@ -1,6 +1,6 @@
 # Radix-2^2 SDF fft
 
-verilog로 radix-2^2 구조를 갖는 fft를 구현해보았다.
+verilog로 radix-2^2 구조를 갖는 16-point fft를 구현해보았다.
 - fixed piont 연산을 위해 round, saturation 모듈 구현
 - butterfly 모듈 구현
 - shift buffer로 delay 모듈 구현
