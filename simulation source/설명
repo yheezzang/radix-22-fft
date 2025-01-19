@@ -1,0 +1,6 @@
+
+
+behavior simulation test bench
+
+16개의 real, imaginary input을 text file에 저장하여 사용함.
+output결과가 정확한지 확인하기 위해서 matlab의 fft 출력결과와 비교하였음.
