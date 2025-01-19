@@ -1,4 +1,5 @@
 
+
 fft_16: sdf1과 sdf2로 구성 --> 추후 더 큰 point의 fft로 확장할때 편리하도록
   sdf1: butterfly control 신호 필요, ROM delay를 맞춰주기 위한 레지스터 필요
     delay: input delay해서 butterfly에 전달
