@@ -12,4 +12,4 @@ verilog로 radix-2^2 구조를 갖는 fft를 구현해보았다.
 
 ![image](https://github.com/user-attachments/assets/00c6ff1d-0757-42dc-84cf-85288fa654f4)
 
-[출처]https://images.app.goo.gl/Mxp6ep1sDgNAF4wh9
+[이미지출처]https://images.app.goo.gl/Mxp6ep1sDgNAF4wh9
