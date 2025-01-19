@@ -15,8 +15,11 @@ verilog로 radix-2^2 구조를 갖는 16-point fft를 구현해보았다.
 [이미지출처]https://images.app.goo.gl/Mxp6ep1sDgNAF4wh9
 
 
+
 behavior waveform
+
 ![image](https://github.com/user-attachments/assets/96b1d4fb-13fc-47d2-9ee2-c4737992fabd)
 
 정답지와 비교
+
 ![image](https://github.com/user-attachments/assets/fbd586f6-15ae-4979-813b-7de6fa12399e)
